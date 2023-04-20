@@ -1,10 +1,16 @@
 # Fundraise Project Console App
 This is a Python console application that allows users to create and manage fund raising campaigns for their projects. The app includes an authentication system to ensure that only registered users can create, view, and edit campaigns. In addition, users can search for campaigns based on their start and end dates.
 
-## Technologies Used
+## Technology Used
 #### The app is built using the following technologies:
 
 `Python:` A high-level programming language used for console application programming.
+
+## Dependencies
+#### This project requires the following modules:
+
+- userOperations
+- projectOperations
 
 ## Installation
 ### To install and run the app locally, follow these steps:</br>
